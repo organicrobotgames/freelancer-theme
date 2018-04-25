@@ -87,6 +87,7 @@ hr.star-primary:after {
 #portfolio .portfolio-item {
     display: block;
     margin: auto;
+	float: none;
 }
 
 header {
