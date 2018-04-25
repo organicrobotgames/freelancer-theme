@@ -79,6 +79,11 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+#portfolio {
+	color: #{{ site.color.secondary }};
+	background: #ffffff;
+}
+
 header {
     text-align: center;
     color: #{{ site.color.secondary }};
