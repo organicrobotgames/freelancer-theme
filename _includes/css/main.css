@@ -80,8 +80,8 @@ hr.star-primary:after {
 }
 
 #portfolio {
-	color: #{{ site.color.secondary }};
-	background: #ffffff;
+	color: #ffffff;
+	background: #{{ site.color.secondary }};
 }
 
 header {
