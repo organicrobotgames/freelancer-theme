@@ -93,8 +93,9 @@ hr.star-primary:after {
 	border-top: none !important; 
 	border-left: none !important;
 	border-right: none !important;
-	border-bottom-radius: none !important;
-	background-color: none !important;
+	border-bottom-left-radius: 0 !important;
+	border-bottom-right-radius: 0 !important;
+	background-color: transparent !important;
 }
 
 header {
