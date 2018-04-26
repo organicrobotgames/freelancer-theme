@@ -89,6 +89,12 @@ hr.star-primary:after {
     margin: auto;
 }
 
+.list-group-item {
+	border-top: none !important; 
+	border-left: none !important;
+	border-right: none !important;
+}
+
 header {
     text-align: center;
     color: #{{ site.color.secondary }};
