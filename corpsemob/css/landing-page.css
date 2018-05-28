@@ -112,13 +112,21 @@ header.masthead h1 {
 
 .call-to-action {
   position: relative;
-  background-color: #343a40;
+  background-color: #221f21;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   padding-top: 7rem;
-  padding-bottom: 7rem;
+  padding-bottom: 7rem;  
+}
+
+.call-to-action a {
+	color: #ed7301;  
+}
+
+.call-to-action a:hover {
+	color: #a45001; 
 }
 
 .call-to-action .overlay {
