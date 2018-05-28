@@ -154,7 +154,7 @@ footer.footer {
 }
 
 #mc_embed_signup {
-    background: none;
+    background: none !important;
     clear: left;
     font: 14px Helvetica,Arial,sans-serif;
     margin: auto;
