@@ -159,3 +159,12 @@ footer.footer {
     font: 14px Helvetica,Arial,sans-serif;
     margin: auto;
 }
+
+
+#mc_embed_signup .button {
+    background-color: #ed7301 !important;
+}
+
+#mc_embed_signup .button:hover {
+    background-color: #a45001 !important;
+}
