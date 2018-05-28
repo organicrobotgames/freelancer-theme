@@ -142,4 +142,14 @@ header.masthead h1 {
 footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
+  background-color: #221f21;
 }
+
+.footer a {
+	color: #ed7301;  
+}
+
+.footer a:hover {
+	color: #a45001; 
+}
+
