@@ -153,3 +153,9 @@ footer.footer {
 	color: #a45001; 
 }
 
+#mc_embed_signup {
+    background: none;
+    clear: left;
+    font: 14px Helvetica,Arial,sans-serif;
+    margin: auto;
+}
