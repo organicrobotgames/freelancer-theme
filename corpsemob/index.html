@@ -43,12 +43,6 @@
   fbq('track', 'PageView');
 </script>
 
-<script>
-$(".btn_addtocart_content").click(function() {
-  fbq('track', 'AddToCart');
-})
-</script>
-
 <noscript><img height="1" width="1" style="display:none"
   src="https://www.facebook.com/tr?id=174583316725515&ev=PageView&noscript=1"
 /></noscript>
@@ -75,6 +69,12 @@ $(".btn_addtocart_content").click(function() {
 			<h4>Buy Corpse Mob on Steam</h4>
 			<div class="embed-responsive embed-responsive-21by9">
 				<iframe src="https://store.steampowered.com/widget/828460/" frameborder="0" width="646" height="190"></iframe>
+				
+				<script>
+					$(".btn_addtocart_content").click(function() {
+					  fbq('track', 'AddToCart');
+					})
+				</script>
 			</div>
           </div>
         </div>
